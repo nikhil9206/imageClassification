@@ -107,5 +107,5 @@ This project generates images with randomly placed and styled shapes (circles, r
 ## Contact
 
 For questions or suggestions, please contact:  
-**Email**: [your-email@example.com](mailto:your-email@example.com)  
-**Phone**: +1 123-456-7890
+**Email**: [adapalanikhil@gmail.com](mailto:adapalanikhil@gmail.com)  
+**Phone**: +1 512-884-7100
